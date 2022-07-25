@@ -1,0 +1,29 @@
+
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+body {
+    width: 400px;
+}
+.profile-picture {
+    height: 50px;
+    width: 50px;
+    object-fit: center;
+    border-radius: 100%;
+    margin-right: 15px;
+}
+
+
+.row {
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.info {
+    width: 200px;
+}
